@@ -1,0 +1,14 @@
+C:\Users\ksfuh\DirectoryListing\bin\Debug\net8.0\DirectoryListing.exe
+C:\Users\ksfuh\DirectoryListing\bin\Debug\net8.0\DirectoryListing.deps.json
+C:\Users\ksfuh\DirectoryListing\bin\Debug\net8.0\DirectoryListing.runtimeconfig.json
+C:\Users\ksfuh\DirectoryListing\bin\Debug\net8.0\DirectoryListing.dll
+C:\Users\ksfuh\DirectoryListing\bin\Debug\net8.0\DirectoryListing.pdb
+C:\Users\ksfuh\DirectoryListing\obj\Debug\net8.0\DirectoryListing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ksfuh\DirectoryListing\obj\Debug\net8.0\DirectoryListing.AssemblyInfoInputs.cache
+C:\Users\ksfuh\DirectoryListing\obj\Debug\net8.0\DirectoryListing.AssemblyInfo.cs
+C:\Users\ksfuh\DirectoryListing\obj\Debug\net8.0\DirectoryListing.csproj.CoreCompileInputs.cache
+C:\Users\ksfuh\DirectoryListing\obj\Debug\net8.0\DirectoryListing.dll
+C:\Users\ksfuh\DirectoryListing\obj\Debug\net8.0\refint\DirectoryListing.dll
+C:\Users\ksfuh\DirectoryListing\obj\Debug\net8.0\DirectoryListing.pdb
+C:\Users\ksfuh\DirectoryListing\obj\Debug\net8.0\DirectoryListing.genruntimeconfig.cache
+C:\Users\ksfuh\DirectoryListing\obj\Debug\net8.0\ref\DirectoryListing.dll
